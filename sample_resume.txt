@@ -1,0 +1,16 @@
+Alex Morgan
+Aspiring Data Analyst
+
+Summary
+Entry-level analyst with experience practising Python programming, SQL queries, statistics, and data visualization.
+
+Skills
+Python, SQL, pandas, NumPy, scikit-learn, Excel, Power BI, statistics, data analysis, Git.
+
+Projects
+- Analysed tabular datasets with pandas and NumPy.
+- Practised exploratory data analysis and visualization.
+- Built simple machine-learning experiments with scikit-learn.
+
+Education
+MSc coursework in data analytics (sample text for testing only).
